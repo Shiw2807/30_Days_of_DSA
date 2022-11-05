@@ -10,5 +10,8 @@ The following are the coding problems solved in this challenge:
 |  | [Swap Alternate](https://www.codingninjas.com/codestudio/problems/swap-alternate_624941)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_01/swap_alternate.cpp) |
 | Day 2 | [Find Unique](https://www.codingninjas.com/codestudio/problems/find-unique_625159) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_02/find_unique.cpp) | 
 |  | [Find Duplicate](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_02/find_duplicate.cpp) |
-
+| Day 3 | [Merge Sorted Arrays](https://www.codingninjas.com/codestudio/problems/find-unique_625159) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_02/find_unique.cpp) | 
+|  | [Missing Number: Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_02/find_duplicate.cpp) |
+|  | [Move Zeroes: Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_02/find_duplicate.cpp) |
+|  | [Reverse: Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_02/find_duplicate.cpp) |
 
