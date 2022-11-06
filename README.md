@@ -14,6 +14,6 @@ The following are the coding problems solved in this challenge:
 |  | [Missing Number: Array](https://leetcode.com/problems/missing-number/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_03/missing_number.cpp) |
 |  | [Move Zeroes: Array](https://www.codingninjas.com/codestudio/problem-details/interview-shuriken-41-move-zeroes-to-end_240143)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_03/move_zeroes.cpp) |
 |  | [Reverse: Array](https://www.codingninjas.com/codestudio/problems/reverse-the-array_1262298)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_03/reverse.cpp) |
-| Day 4 | [Kandane Algorithm](https://leetcode.com/problems/maximum-subarray/) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_01/linear_search.cpp) | 
+| Day 4 | [Kandane Algorithm](https://leetcode.com/problems/maximum-subarray/) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_04/kandane.cpp) | 
 |  | [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_01/swap_alternate.cpp) |
 
