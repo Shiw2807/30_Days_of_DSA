@@ -16,4 +16,8 @@ The following are the coding problems solved in this challenge:
 |  | [Reverse: Array](https://www.codingninjas.com/codestudio/problems/reverse-the-array_1262298)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_03/reverse.cpp) |
 | Day 4 | [Kandane Algorithm](https://leetcode.com/problems/maximum-subarray/) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_04/kandane.cpp) | 
 |  | [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_04/pascal_triangle.cpp) |
+| Day 5 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/submissions/) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_04/kandane.cpp) | 
+|  | [Power of Two](https://leetcode.com/problems/power-of-two/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_04/pascal_triangle.cpp) |
+
+
 
