@@ -19,7 +19,9 @@ The following are the coding problems solved in this challenge:
 | Day 5 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/submissions/) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/duplicate_zeroes.cpp) | 
 |  | [Power of Two](https://leetcode.com/problems/power-of-two/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/powerOfTwo.cpp) |
 | Day 6 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/) | [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/duplicate_zeroes.cpp) | 
-|  | [Intersection of Two Arrays](https://leetcode.com/problems/power-of-two/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/powerOfTwo.cpp) |
-
+|  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/powerOfTwo.cpp) |
+|  | [Range Sum Query](https://leetcode.com/problems/intersection-of-two-arrays/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/powerOfTwo.cpp) |
+|  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/powerOfTwo.cpp) |
+|  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Code](https://github.com/Shiw2807/30_Days_of_DSA/blob/main/Day_05/powerOfTwo.cpp) |
 
 
